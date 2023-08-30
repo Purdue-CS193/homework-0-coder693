@@ -1,4 +1,8 @@
-## Welcome to PJ's website. 
+# PJ Sathischandar's first CS193 HW
+
+-I love that this class teaches us the basics of github
+-I love that this class teaches us about the terminal
+-I love that this class is not too hard. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
